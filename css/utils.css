@@ -1,0 +1,23 @@
+.font-1{
+    font-family: 'Poppins', sans-serif;
+}
+.font-2{
+    font-family: 'Roboto', sans-serif;
+}
+.btn-cho{
+    border: 1px solid white;
+    background: var(--bg);
+    padding: 20px 60px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 20px;
+    margin: 30px 0;
+}
+.btn-cho:hover{
+    background-color: var(--main-color);
+}
